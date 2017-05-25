@@ -1,6 +1,6 @@
 *download codeblocks
 
-#include <iostream> : include c++ input output stream
+#include <iostream> : include input output stream from c++ dictionary 
 
 using namespace std; : calling std function from namespace class in c++ library
 
@@ -9,3 +9,7 @@ int main() : create main function with integer return value
 cout <<"message"; : display message on the screen
 
 return number : return the value based on number given to the function
+
+/*comment*/ : multiline comment
+
+//comment : single line comment
