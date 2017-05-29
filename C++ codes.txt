@@ -21,3 +21,7 @@ endl : end of line
 #define PI 3.14 : define PI value as 3.14
 
 const float PI=3.14; : define PI constant value as 3.14 in float format
+
+\a : alert sound
+\t : tab
+\n : new line
