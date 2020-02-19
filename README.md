@@ -18,13 +18,13 @@ C++ is standardized by the International Organization for Standardization (ISO),
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-C++ official website : http://www.codeblocks.org <br />
+C++ official website :	isocpp.org <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-$ git clone https://isocpp.org/
+$ git clone https://github.com/syakirharis25/C-plusplus.git
 $ cd C-plusplus/
 $ git remote -v
 $ git status
