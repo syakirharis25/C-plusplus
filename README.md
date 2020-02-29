@@ -20,6 +20,9 @@ C++ is standardized by the International Organization for Standardization (ISO),
 ## 2. Official references websites. <br />
 C++ official website : https://isocpp.org <br />
 
+**_C++ related articles_** <br />
+C# vs. C++: Which One Should You Learn? by BitDegree : https://www.bitdegree.org/tutorials/c-sharp-vs-c-plus-plus/ <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
